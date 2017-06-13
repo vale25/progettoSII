@@ -8,4 +8,7 @@ successivamente importare le seguenti librerie:
 - Weka: http://prdownloads.sourceforge.net/weka/weka-3-8-1.zip
 - Json: https://sourceforge.net/projects/json-lib/
 
+All'interno del file twitter4j.properties aggiungete le chiavi segrete della vostra applicazione twitter (è necessario aver
+registrato la propria applicazione su twitter per eseguire quest'app)
+
 Ora potete effettuare il run dell'applicazione!
